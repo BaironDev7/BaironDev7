@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there I'm Bairon Botero 👋
 
-<!--
-**BaironDev7/BaironDev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🌱 &nbsp; I’m 21 years old and I live in Colombia.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🔭 &nbsp; I’m currently acquiring knowledge in ReatcJS.
+- 💼 &nbsp; Student focused on web development.
+- 🎓 &nbsp; I’m a systems technician and software development technician.
+- ✍️ &nbsp; I really like anime and designing static sites to expand and improve my knowledge in the area of ​​web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Knowledge in:</h3>
+
+- 💻 &nbsp; Python
+- 🌐 &nbsp; HTML | CSS | JavaScript | TailwindCSS | ReactJS
+- 🛢 &nbsp; MySQL | Xampp
+- 🔧 &nbsp; Visual Studio code | Git | NodeJS | Vite
+- 🖥 &nbsp; Illustrator | Photoshop
+
+
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
+
+<p align="center">  
+&nbsp; <a href="https://www.linkedin.com/in/bairon-andrés-botero-martínez-a668541b1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:baironbotero15@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
