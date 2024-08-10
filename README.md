@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌱 &nbsp; I’m 21 years old and I live in Colombia.
+- 🌱 &nbsp; I’m 22 years old and I live in Colombia.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🔭 &nbsp; I’m currently acquiring knowledge in ReatcJS.
 - 💼 &nbsp; Student focused on web development.
